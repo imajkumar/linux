@@ -1,2 +1,4 @@
 #this command is used to log as root
 sudo su
+#this command is used to create folder
+sudo mkdir <folder name>
