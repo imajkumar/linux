@@ -2,3 +2,5 @@
 sudo su
 #this command is used to create folder
 sudo mkdir <folder name>
+#create new file of any extension
+sudo touch index.php 
